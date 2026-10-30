@@ -1,0 +1,7 @@
+services:
+  - type: web
+    name: bilgi-arena
+    runtime: node
+    plan: free
+    buildCommand: npm install --omit=dev --ignore-scripts
+    startCommand: node server.mjs

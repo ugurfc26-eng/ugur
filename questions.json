@@ -1,0 +1,4181 @@
+[
+  {
+    "id": "q001",
+    "text": "Mona Lisa tablosunu kim yaptı?",
+    "options": [
+      "Leonardo da Vinci",
+      "Michelangelo",
+      "Claude Monet",
+      "Vincent van Gogh"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q002",
+    "text": "İstiklal Marşı'nın şairi kimdir?",
+    "options": [
+      "Namık Kemal",
+      "Yahya Kemal",
+      "Orhan Veli",
+      "Mehmet Akif Ersoy"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q003",
+    "text": "Nutuk'un yazarı kimdir?",
+    "options": [
+      "Ziya Gökalp",
+      "Halide Edib",
+      "Mustafa Kemal Atatürk",
+      "İsmet İnönü"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q004",
+    "text": "Küçük Prens'i kim yazdı?",
+    "options": [
+      "Albert Camus",
+      "Antoine de Saint-Exupéry",
+      "Victor Hugo",
+      "Jules Verne"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q005",
+    "text": "Don Kişot'un yazarı kimdir?",
+    "options": [
+      "Miguel de Cervantes",
+      "William Shakespeare",
+      "Dante Alighieri",
+      "Franz Kafka"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q006",
+    "text": "Bir yılın ilk ayı hangisidir?",
+    "options": [
+      "Şubat",
+      "Mart",
+      "Aralık",
+      "Ocak"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q007",
+    "text": "Geleneksel Türk gölge oyununda Hacivat'ın arkadaşı kimdir?",
+    "options": [
+      "Nasreddin Hoca",
+      "Köroğlu",
+      "Karagöz",
+      "Keloğlan"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q008",
+    "text": "Piyanoda hangi tür tuşlar bulunur?",
+    "options": [
+      "Yalnız siyah",
+      "Siyah ve beyaz",
+      "Kırmızı ve mavi",
+      "Yeşil ve sarı"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q009",
+    "text": "Keman genellikle kaç tellidir?",
+    "options": [
+      "4",
+      "3",
+      "5",
+      "6"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q010",
+    "text": "Türk alfabesinde kaç harf vardır?",
+    "options": [
+      "26",
+      "28",
+      "32",
+      "29"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q011",
+    "text": "Bir haftada kaç gün vardır?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q012",
+    "text": "Satrançta şahı tehditten kurtaracak hamle kalmamasına ne denir?",
+    "options": [
+      "Terfi",
+      "Mat",
+      "Rok",
+      "Pat"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q013",
+    "text": "Üçgenin kaç kenarı vardır?",
+    "options": [
+      "3",
+      "2",
+      "4",
+      "5"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q014",
+    "text": "Suç ve Ceza'nın yazarı kimdir?",
+    "options": [
+      "Lev Tolstoy",
+      "Anton Çehov",
+      "İvan Turgenyev",
+      "Fyodor Dostoyevski"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q015",
+    "text": "Sefiller romanını kim yazdı?",
+    "options": [
+      "Gustave Flaubert",
+      "Marcel Proust",
+      "Victor Hugo",
+      "Emile Zola"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q016",
+    "text": "Guernica tablosu kimin eseridir?",
+    "options": [
+      "Edvard Munch",
+      "Pablo Picasso",
+      "Salvador Dali",
+      "Henri Matisse"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q017",
+    "text": "Yıldızlı Gece tablosunu kim yaptı?",
+    "options": [
+      "Vincent van Gogh",
+      "Paul Cézanne",
+      "Paul Gauguin",
+      "Auguste Renoir"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q018",
+    "text": "Dört Mevsim konçertolarının bestecisi kimdir?",
+    "options": [
+      "Johann Strauss",
+      "Franz Schubert",
+      "Giuseppe Verdi",
+      "Antonio Vivaldi"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q019",
+    "text": "Dokuzuncu Senfoni'sinde Neşeye Övgü'yü kullanan besteci kimdir?",
+    "options": [
+      "Frederic Chopin",
+      "Gioachino Rossini",
+      "Ludwig van Beethoven",
+      "Johann Sebastian Bach"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q020",
+    "text": "Çalıkuşu romanının yazarı kimdir?",
+    "options": [
+      "Sabahattin Ali",
+      "Reşat Nuri Güntekin",
+      "Peyami Safa",
+      "Yakup Kadri Karaosmanoğlu"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q021",
+    "text": "İnce Memed romanını kim yazdı?",
+    "options": [
+      "Yaşar Kemal",
+      "Orhan Kemal",
+      "Kemal Tahir",
+      "Tarık Buğra"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q022",
+    "text": "Saatleri Ayarlama Enstitüsü'nün yazarı kimdir?",
+    "options": [
+      "Oğuz Atay",
+      "Yusuf Atılgan",
+      "Sait Faik",
+      "Ahmet Hamdi Tanpınar"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q023",
+    "text": "Dönüşüm adlı eserin yazarı kimdir?",
+    "options": [
+      "Thomas Mann",
+      "Bertolt Brecht",
+      "Franz Kafka",
+      "Hermann Hesse"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q024",
+    "text": "1984 romanını kim yazdı?",
+    "options": [
+      "H. G. Wells",
+      "George Orwell",
+      "Aldous Huxley",
+      "Ray Bradbury"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q025",
+    "text": "Bülbülü Öldürmek romanının yazarı kimdir?",
+    "options": [
+      "Harper Lee",
+      "Jane Austen",
+      "Virginia Woolf",
+      "Emily Brontë"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q026",
+    "text": "Nobel Edebiyat Ödülü'nü 2006'da alan Türk yazar kimdir?",
+    "options": [
+      "Yaşar Kemal",
+      "Aziz Nesin",
+      "Nazım Hikmet",
+      "Orhan Pamuk"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Orta",
+    "source": "https://www.nobelprize.org/prizes/literature/2006/summary/"
+  },
+  {
+    "id": "q027",
+    "text": "İlahi Komedya'nın yazarı kimdir?",
+    "options": [
+      "Francesco Petrarca",
+      "Umberto Eco",
+      "Dante Alighieri",
+      "Giovanni Boccaccio"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q028",
+    "text": "Kutadgu Bilig'i kim yazdı?",
+    "options": [
+      "Ahmet Yesevi",
+      "Yusuf Has Hacib",
+      "Kaşgarlı Mahmud",
+      "Ali Şir Nevai"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q029",
+    "text": "Divanü Lügati't-Türk'ün yazarı kimdir?",
+    "options": [
+      "Kaşgarlı Mahmud",
+      "Yusuf Has Hacib",
+      "Edip Ahmet Yükneki",
+      "Hoca Dehhani"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q030",
+    "text": "Seyahatname adlı eseriyle bilinen gezgin kimdir?",
+    "options": [
+      "Katip Çelebi",
+      "Piri Reis",
+      "Seydi Ali Reis",
+      "Evliya Çelebi"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q031",
+    "text": "Mesnevi'nin yazarı kimdir?",
+    "options": [
+      "Fuzuli",
+      "Baki",
+      "Mevlana Celaleddin Rumi",
+      "Yunus Emre"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q032",
+    "text": "Aşk-ı Memnu romanını kim yazdı?",
+    "options": [
+      "Ahmet Mithat",
+      "Halit Ziya Uşaklıgil",
+      "Mehmet Rauf",
+      "Hüseyin Rahmi Gürpınar"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q033",
+    "text": "Eylül romanının yazarı kimdir?",
+    "options": [
+      "Mehmet Rauf",
+      "Halit Ziya Uşaklıgil",
+      "Recaizade Mahmut Ekrem",
+      "Samipaşazade Sezai"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q034",
+    "text": "Araba Sevdası romanını kim yazdı?",
+    "options": [
+      "Namık Kemal",
+      "Şinasi",
+      "Ziya Paşa",
+      "Recaizade Mahmut Ekrem"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q035",
+    "text": "Kürk Mantolu Madonna'nın yazarı kimdir?",
+    "options": [
+      "Orhan Veli",
+      "Cahit Sıtkı",
+      "Sabahattin Ali",
+      "Sait Faik"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q036",
+    "text": "Düşünen Adam heykelinin sanatçısı kimdir?",
+    "options": [
+      "Constantin Brancusi",
+      "Auguste Rodin",
+      "Donatello",
+      "Gian Lorenzo Bernini"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q037",
+    "text": "Belleğin Azmi tablosundaki eriyen saatleri hangi sanatçı çizdi?",
+    "options": [
+      "Salvador Dali",
+      "Rene Magritte",
+      "Joan Miro",
+      "Max Ernst"
+    ],
+    "correct": 0,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q038",
+    "text": "Bolero adlı orkestra eserini kim besteledi?",
+    "options": [
+      "Claude Debussy",
+      "Erik Satie",
+      "Camille Saint-Saens",
+      "Maurice Ravel"
+    ],
+    "correct": 3,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q039",
+    "text": "Sihirli Flüt operasının bestecisi kimdir?",
+    "options": [
+      "Giacomo Puccini",
+      "Georges Bizet",
+      "Wolfgang Amadeus Mozart",
+      "Richard Wagner"
+    ],
+    "correct": 2,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q040",
+    "text": "Gülün Adı romanının yazarı kimdir?",
+    "options": [
+      "Cesare Pavese",
+      "Umberto Eco",
+      "Italo Calvino",
+      "Alberto Moravia"
+    ],
+    "correct": 1,
+    "category": "Genel Kültür",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q041",
+    "text": "Standart futbolda bir takım sahaya en fazla kaç oyuncuyla çıkar?",
+    "options": [
+      "11",
+      "9",
+      "10",
+      "12"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Kolay",
+    "source": "https://theifab.com/laws/latest/the-players/"
+  },
+  {
+    "id": "q042",
+    "text": "Standart bir futbol maçında normal süre kaç dakikadır?",
+    "options": [
+      "60",
+      "80",
+      "100",
+      "90"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Kolay",
+    "source": "https://www.theifab.com/laws/latest/the-duration-of-the-match/"
+  },
+  {
+    "id": "q043",
+    "text": "Futbolda kaleyi koruyan oyuncuya ne denir?",
+    "options": [
+      "Libero",
+      "Kanat",
+      "Kaleci",
+      "Forvet"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q044",
+    "text": "Futbolda oyundan ihraç kartı hangi renktir?",
+    "options": [
+      "Yeşil",
+      "Kırmızı",
+      "Sarı",
+      "Mavi"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q045",
+    "text": "Futbolda ihtar kartı hangi renktir?",
+    "options": [
+      "Sarı",
+      "Kırmızı",
+      "Beyaz",
+      "Mor"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q046",
+    "text": "2022 erkekler FIFA Dünya Kupası'nı kim kazandı?",
+    "options": [
+      "Fransa",
+      "Hırvatistan",
+      "Fas",
+      "Arjantin"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q047",
+    "text": "2018 erkekler FIFA Dünya Kupası şampiyonu kimdir?",
+    "options": [
+      "İngiltere",
+      "Hırvatistan",
+      "Fransa",
+      "Belçika"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q048",
+    "text": "2014 erkekler FIFA Dünya Kupası'nı kim kazandı?",
+    "options": [
+      "Hollanda",
+      "Almanya",
+      "Arjantin",
+      "Brezilya"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q049",
+    "text": "Lionel Messi hangi ülkenin milli takımında oynar?",
+    "options": [
+      "Arjantin",
+      "Brezilya",
+      "İspanya",
+      "Uruguay"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q050",
+    "text": "Cristiano Ronaldo hangi ülkenin milli takımında oynar?",
+    "options": [
+      "İspanya",
+      "İtalya",
+      "Arjantin",
+      "Portekiz"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q051",
+    "text": "Galatasaray'ın geleneksel renkleri hangileridir?",
+    "options": [
+      "Siyah-beyaz",
+      "Bordo-mavi",
+      "Sarı-kırmızı",
+      "Sarı-lacivert"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q052",
+    "text": "Fenerbahçe'nin geleneksel renkleri hangileridir?",
+    "options": [
+      "Siyah-beyaz",
+      "Sarı-lacivert",
+      "Sarı-kırmızı",
+      "Yeşil-beyaz"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q053",
+    "text": "Beşiktaş'ın geleneksel renkleri hangileridir?",
+    "options": [
+      "Siyah-beyaz",
+      "Sarı-lacivert",
+      "Kırmızı-beyaz",
+      "Bordo-mavi"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q054",
+    "text": "2002 Dünya Kupası'nda Türkiye kaçıncı oldu?",
+    "options": [
+      "İkinci",
+      "Dördüncü",
+      "Beşinci",
+      "Üçüncü"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q055",
+    "text": "2000 UEFA Kupası'nı hangi Türk kulübü kazandı?",
+    "options": [
+      "Beşiktaş",
+      "Trabzonspor",
+      "Galatasaray",
+      "Fenerbahçe"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q056",
+    "text": "2010 erkekler Dünya Kupası şampiyonu hangi ülkedir?",
+    "options": [
+      "Uruguay",
+      "İspanya",
+      "Hollanda",
+      "Almanya"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q057",
+    "text": "2006 erkekler Dünya Kupası'nı kim kazandı?",
+    "options": [
+      "İtalya",
+      "Fransa",
+      "Almanya",
+      "Portekiz"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q058",
+    "text": "2002 erkekler Dünya Kupası şampiyonu kimdir?",
+    "options": [
+      "Almanya",
+      "Türkiye",
+      "Güney Kore",
+      "Brezilya"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q059",
+    "text": "1998 erkekler Dünya Kupası'nı kim kazandı?",
+    "options": [
+      "Hırvatistan",
+      "Hollanda",
+      "Fransa",
+      "Brezilya"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q060",
+    "text": "İlk erkekler FIFA Dünya Kupası hangi yıl yapıldı?",
+    "options": [
+      "1938",
+      "1930",
+      "1924",
+      "1934"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q061",
+    "text": "İlk erkekler FIFA Dünya Kupası'na hangi ülke ev sahipliği yaptı?",
+    "options": [
+      "Uruguay",
+      "Brezilya",
+      "İtalya",
+      "Fransa"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q062",
+    "text": "Futbolda penaltı noktası kale çizgisinden kaç metre uzaktadır?",
+    "options": [
+      "9",
+      "10",
+      "12",
+      "11"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q063",
+    "text": "Futbol kalesinin iki direği arasındaki mesafe kaç metredir?",
+    "options": [
+      "8,00",
+      "7,00",
+      "7,32",
+      "6,50"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q064",
+    "text": "Futbolda top yan çizgiyi tamamen geçtiğinde oyun genellikle nasıl başlar?",
+    "options": [
+      "Penaltıyla",
+      "Taç atışıyla",
+      "Başlama vuruşuyla",
+      "Hakem atışıyla"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q065",
+    "text": "Futbolda bir oyuncunun aynı maçta üç gol atmasına ne denir?",
+    "options": [
+      "Hat-trick",
+      "Röveşata",
+      "Ofsayt",
+      "Pres"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q066",
+    "text": "VAR kısaltmasındaki V hangi İngilizce sözcüğü temsil eder?",
+    "options": [
+      "Victory",
+      "Virtual",
+      "Visual",
+      "Video"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q067",
+    "text": "1966 erkekler Dünya Kupası şampiyonu kimdir?",
+    "options": [
+      "Portekiz",
+      "Sovyetler Birliği",
+      "İngiltere",
+      "Batı Almanya"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q068",
+    "text": "1954 erkekler Dünya Kupası'nı kim kazandı?",
+    "options": [
+      "Avusturya",
+      "Batı Almanya",
+      "Macaristan",
+      "Uruguay"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q069",
+    "text": "1992 Avrupa Futbol Şampiyonası'nı kim kazandı?",
+    "options": [
+      "Danimarka",
+      "Almanya",
+      "Hollanda",
+      "İsveç"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q070",
+    "text": "2004 Avrupa Futbol Şampiyonası'nı kim kazandı?",
+    "options": [
+      "Portekiz",
+      "Çekya",
+      "Hollanda",
+      "Yunanistan"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q071",
+    "text": "2016 Avrupa Futbol Şampiyonası şampiyonu kimdir?",
+    "options": [
+      "Almanya",
+      "Galler",
+      "Portekiz",
+      "Fransa"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q072",
+    "text": "2020 adıyla düzenlenen Avrupa Futbol Şampiyonası'nı kim kazandı?",
+    "options": [
+      "Danimarka",
+      "İtalya",
+      "İngiltere",
+      "İspanya"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q073",
+    "text": "2024 Avrupa Futbol Şampiyonası'nı kim kazandı?",
+    "options": [
+      "İspanya",
+      "İngiltere",
+      "Fransa",
+      "Hollanda"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q074",
+    "text": "Maradona'nın 1986 Dünya Kupası çeyrek finalinde iki gol attığı rakip hangisidir?",
+    "options": [
+      "Brezilya",
+      "İtalya",
+      "Belçika",
+      "İngiltere"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q075",
+    "text": "Panenka'nın ünlü penaltısıyla biten 1976 Avrupa Şampiyonası'nı kim kazandı?",
+    "options": [
+      "Hollanda",
+      "Yugoslavya",
+      "Çekoslovakya",
+      "Batı Almanya"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q076",
+    "text": "1999 Şampiyonlar Ligi finalinde Bayern Münih'i kim yendi?",
+    "options": [
+      "Milan",
+      "Manchester United",
+      "Real Madrid",
+      "Juventus"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q077",
+    "text": "2005 İstanbul Şampiyonlar Ligi finalini hangi takım kazandı?",
+    "options": [
+      "Liverpool",
+      "Milan",
+      "Chelsea",
+      "Barcelona"
+    ],
+    "correct": 0,
+    "category": "Futbol",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q078",
+    "text": "Futbolda bir takım kaç oyuncunun altına düşerse maç devam edemez?",
+    "options": [
+      "6",
+      "8",
+      "9",
+      "7"
+    ],
+    "correct": 3,
+    "category": "Futbol",
+    "difficulty": "Zor",
+    "source": "https://theifab.com/laws/latest/the-players/"
+  },
+  {
+    "id": "q079",
+    "text": "Kalecinin topu elleriyle oynayabildiği kendisine ait bölge hangisidir?",
+    "options": [
+      "Rakip ceza alanı",
+      "Sahanın tamamı",
+      "Ceza alanı",
+      "Orta yuvarlak"
+    ],
+    "correct": 2,
+    "category": "Futbol",
+    "difficulty": "Zor",
+    "source": "https://theifab.com/laws/latest/fouls-and-misconduct/"
+  },
+  {
+    "id": "q080",
+    "text": "Futbolda doğrudan taç atışından rakip kaleye giren top için karar nedir?",
+    "options": [
+      "Köşe vuruşu",
+      "Kale vuruşu",
+      "Gol",
+      "Penaltı"
+    ],
+    "correct": 1,
+    "category": "Futbol",
+    "difficulty": "Zor",
+    "source": "https://theifab.com/laws/latest/fouls-and-misconduct/"
+  },
+  {
+    "id": "q081",
+    "text": "Türkiye Cumhuriyeti hangi yıl ilan edildi?",
+    "options": [
+      "1923",
+      "1919",
+      "1920",
+      "1922"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q082",
+    "text": "TBMM hangi tarihte açıldı?",
+    "options": [
+      "19 Mayıs 1919",
+      "29 Ekim 1923",
+      "30 Ağustos 1922",
+      "23 Nisan 1920"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q083",
+    "text": "Mustafa Kemal'in Samsun'a çıkış tarihi hangisidir?",
+    "options": [
+      "29 Ekim 1923",
+      "9 Eylül 1922",
+      "19 Mayıs 1919",
+      "23 Nisan 1920"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q084",
+    "text": "İstanbul'u 1453'te fetheden padişah kimdir?",
+    "options": [
+      "II. Bayezid",
+      "II. Mehmed",
+      "I. Selim",
+      "I. Süleyman"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q085",
+    "text": "Osmanlı Beyliği'nin kurucusu kimdir?",
+    "options": [
+      "Osman Bey",
+      "Orhan Bey",
+      "Ertuğrul Gazi",
+      "Alaeddin Keykubad"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q086",
+    "text": "Türkiye Cumhuriyeti'nin ilk cumhurbaşkanı kimdir?",
+    "options": [
+      "İsmet İnönü",
+      "Celal Bayar",
+      "Cemal Gürsel",
+      "Mustafa Kemal Atatürk"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q087",
+    "text": "Malazgirt Savaşı hangi yıl yapıldı?",
+    "options": [
+      "1176",
+      "1243",
+      "1071",
+      "1040"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q088",
+    "text": "Fransız Devrimi hangi yıl başladı?",
+    "options": [
+      "1848",
+      "1789",
+      "1776",
+      "1815"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q089",
+    "text": "Birinci Dünya Savaşı hangi yıl başladı?",
+    "options": [
+      "1914",
+      "1918",
+      "1939",
+      "1905"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q090",
+    "text": "İkinci Dünya Savaşı hangi yıl sona erdi?",
+    "options": [
+      "1939",
+      "1944",
+      "1950",
+      "1945"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q091",
+    "text": "İnsanlı ilk Ay inişi hangi yıl gerçekleşti?",
+    "options": [
+      "1961",
+      "1972",
+      "1969",
+      "1957"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q092",
+    "text": "Piramitleriyle ünlü Giza hangi antik uygarlığa aittir?",
+    "options": [
+      "İnka",
+      "Mısır",
+      "Hitit",
+      "Roma"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q093",
+    "text": "Yazıyı geliştiren ilk uygarlıklar arasında hangisi bulunur?",
+    "options": [
+      "Sümerler",
+      "Vikingler",
+      "Aztekler",
+      "İnkalar"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q094",
+    "text": "Lozan Barış Antlaşması hangi yıl imzalandı?",
+    "options": [
+      "1920",
+      "1921",
+      "1924",
+      "1923"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q095",
+    "text": "Saltanat hangi yıl kaldırıldı?",
+    "options": [
+      "1923",
+      "1924",
+      "1922",
+      "1920"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q096",
+    "text": "Türkiye'de halifelik hangi yıl kaldırıldı?",
+    "options": [
+      "1928",
+      "1924",
+      "1922",
+      "1923"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q097",
+    "text": "Türk Harf Devrimi hangi yıl gerçekleşti?",
+    "options": [
+      "1928",
+      "1924",
+      "1930",
+      "1934"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q098",
+    "text": "Türkiye'de kadınlara milletvekili seçme ve seçilme hakkı hangi yıl verildi?",
+    "options": [
+      "1923",
+      "1926",
+      "1930",
+      "1934"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Orta",
+    "source": "https://ataturkansiklopedisi.gov.tr/detay/919/Atat%C3%BCrk-D%C3%B6neminde-Kad%C4%B1n-Haklar%C4%B1"
+  },
+  {
+    "id": "q099",
+    "text": "Sakarya Meydan Muharebesi hangi yıl yapıldı?",
+    "options": [
+      "1920",
+      "1922",
+      "1921",
+      "1919"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q100",
+    "text": "Büyük Taarruz hangi tarihte başladı?",
+    "options": [
+      "23 Ağustos 1921",
+      "26 Ağustos 1922",
+      "30 Ağustos 1922",
+      "9 Eylül 1922"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q101",
+    "text": "Magna Carta hangi ülkede ilan edildi?",
+    "options": [
+      "İngiltere",
+      "Fransa",
+      "İspanya",
+      "İtalya"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q102",
+    "text": "Amerikan Bağımsızlık Bildirgesi hangi yıl kabul edildi?",
+    "options": [
+      "1789",
+      "1812",
+      "1865",
+      "1776"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q103",
+    "text": "Berlin Duvarı hangi yıl yıkılmaya başladı?",
+    "options": [
+      "1991",
+      "1993",
+      "1989",
+      "1985"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q104",
+    "text": "Batı Roma İmparatorluğu'nun sonu için geleneksel olarak hangi yıl kullanılır?",
+    "options": [
+      "800",
+      "476",
+      "395",
+      "1453"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q105",
+    "text": "Rönesans'ın başlangıç merkezi olarak hangi ülke öne çıkar?",
+    "options": [
+      "İtalya",
+      "İngiltere",
+      "Rusya",
+      "İsveç"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q106",
+    "text": "Matbaanın Avrupa'da hareketli metal harflerle gelişiminde kim öne çıkar?",
+    "options": [
+      "Galileo Galilei",
+      "Isaac Newton",
+      "Leonardo da Vinci",
+      "Johannes Gutenberg"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q107",
+    "text": "Kadeş Antlaşması hangi iki devlet arasında yapıldı?",
+    "options": [
+      "Asur ve Babil",
+      "Sparta ve Atina",
+      "Hitit ve Mısır",
+      "Roma ve Pers"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q108",
+    "text": "Anadolu Selçuklu Devleti'nin başkentlerinden biri hangisidir?",
+    "options": [
+      "Trabzon",
+      "Konya",
+      "Edirne",
+      "Bursa"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q109",
+    "text": "Miryokefalon Savaşı hangi yıl yapıldı?",
+    "options": [
+      "1176",
+      "1071",
+      "1243",
+      "1299"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q110",
+    "text": "Kösedağ Savaşı hangi yıl yapıldı?",
+    "options": [
+      "1176",
+      "1071",
+      "1402",
+      "1243"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q111",
+    "text": "Ankara Savaşı'nda Yıldırım Bayezid'in rakibi kimdi?",
+    "options": [
+      "Hülagu",
+      "Batu Han",
+      "Timur",
+      "Cengiz Han"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q112",
+    "text": "Osmanlı'nın ilk anayasası hangi adla bilinir?",
+    "options": [
+      "Tanzimat Fermanı",
+      "Kanun-ı Esasi",
+      "Sened-i İttifak",
+      "Islahat Fermanı"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q113",
+    "text": "Tanzimat Fermanı hangi yıl ilan edildi?",
+    "options": [
+      "1839",
+      "1808",
+      "1856",
+      "1876"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q114",
+    "text": "Islahat Fermanı hangi yıl ilan edildi?",
+    "options": [
+      "1839",
+      "1876",
+      "1908",
+      "1856"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q115",
+    "text": "İkinci Meşrutiyet hangi yıl ilan edildi?",
+    "options": [
+      "1909",
+      "1912",
+      "1908",
+      "1876"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q116",
+    "text": "Westphalia Barışı hangi savaşı sona erdirdi?",
+    "options": [
+      "Kırım Savaşı",
+      "Otuz Yıl Savaşı",
+      "Yüz Yıl Savaşı",
+      "Yedi Yıl Savaşı"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q117",
+    "text": "Waterloo Savaşı'nda yenilen Fransız lider kimdir?",
+    "options": [
+      "Napolyon Bonapart",
+      "XIV. Louis",
+      "Robespierre",
+      "Charles de Gaulle"
+    ],
+    "correct": 0,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q118",
+    "text": "İpek Yolu'nun tarihsel doğu ucundaki büyük uygarlık hangisidir?",
+    "options": [
+      "İnka",
+      "Aztek",
+      "Maya",
+      "Çin"
+    ],
+    "correct": 3,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q119",
+    "text": "Rosetta Taşı'nın çözülmesi hangi yazının okunmasını sağladı?",
+    "options": [
+      "Linear A",
+      "Maya rakamları",
+      "Mısır hiyeroglifleri",
+      "Göktürk alfabesi"
+    ],
+    "correct": 2,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q120",
+    "text": "Orhun Yazıtları hangi Türk devleti dönemine aittir?",
+    "options": [
+      "Karahanlı",
+      "İkinci Göktürk Kağanlığı",
+      "Büyük Selçuklu",
+      "Osmanlı"
+    ],
+    "correct": 1,
+    "category": "Tarih",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q121",
+    "text": "Türkiye'nin başkenti neresidir?",
+    "options": [
+      "Ankara",
+      "İstanbul",
+      "İzmir",
+      "Bursa"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q122",
+    "text": "Fransa'nın başkenti neresidir?",
+    "options": [
+      "Lyon",
+      "Marsilya",
+      "Nice",
+      "Paris"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q123",
+    "text": "Japonya'nın başkenti neresidir?",
+    "options": [
+      "Osaka",
+      "Hiroşima",
+      "Tokyo",
+      "Kyoto"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q124",
+    "text": "İtalya'nın başkenti neresidir?",
+    "options": [
+      "Torino",
+      "Roma",
+      "Milano",
+      "Napoli"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q125",
+    "text": "Almanya'nın başkenti neresidir?",
+    "options": [
+      "Berlin",
+      "Hamburg",
+      "Münih",
+      "Bonn"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q126",
+    "text": "Dünya'nın en büyük okyanusu hangisidir?",
+    "options": [
+      "Atlas Okyanusu",
+      "Hint Okyanusu",
+      "Arktik Okyanusu",
+      "Büyük Okyanus"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q127",
+    "text": "Sahra Çölü hangi kıtadadır?",
+    "options": [
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Asya"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q128",
+    "text": "Amazon Nehri hangi kıtadadır?",
+    "options": [
+      "Avrupa",
+      "Güney Amerika",
+      "Afrika",
+      "Asya"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q129",
+    "text": "Everest Dağı hangi sıradağlardadır?",
+    "options": [
+      "Himalayalar",
+      "Alpler",
+      "Andlar",
+      "Kayalık Dağlar"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q130",
+    "text": "Türkiye'nin kuzeyinde hangi deniz bulunur?",
+    "options": [
+      "Akdeniz",
+      "Kızıldeniz",
+      "Adriyatik",
+      "Karadeniz"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q131",
+    "text": "İstanbul Boğazı hangi iki denizi bağlar?",
+    "options": [
+      "Marmara ve Ege",
+      "Karadeniz ve Hazar",
+      "Karadeniz ve Marmara",
+      "Ege ve Akdeniz"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q132",
+    "text": "Ekvator Dünya'yı hangi iki yarımküreye ayırır?",
+    "options": [
+      "Sıcak ve Soğuk",
+      "Kuzey ve Güney",
+      "Doğu ve Batı",
+      "Kara ve Deniz"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q133",
+    "text": "Penguenlerin doğal yaşam alanları ağırlıklı olarak hangi yarımkürededir?",
+    "options": [
+      "Güney",
+      "Kuzey",
+      "Batı kutup",
+      "Doğu kutup"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q134",
+    "text": "Avustralya'nın başkenti neresidir?",
+    "options": [
+      "Sidney",
+      "Melbourne",
+      "Perth",
+      "Canberra"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q135",
+    "text": "Kanada'nın başkenti neresidir?",
+    "options": [
+      "Vancouver",
+      "Montreal",
+      "Ottawa",
+      "Toronto"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q136",
+    "text": "Brezilya'nın başkenti neresidir?",
+    "options": [
+      "Salvador",
+      "Brasília",
+      "Rio de Janeiro",
+      "São Paulo"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q137",
+    "text": "İsviçre'nin federal şehri hangisidir?",
+    "options": [
+      "Bern",
+      "Zürih",
+      "Cenevre",
+      "Lozan"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Orta",
+    "source": "https://www.aboutswitzerland.eda.admin.ch/en/political-system"
+  },
+  {
+    "id": "q138",
+    "text": "Dünyanın yüzölçümü en büyük ülkesi hangisidir?",
+    "options": [
+      "Kanada",
+      "Çin",
+      "ABD",
+      "Rusya"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q139",
+    "text": "Yüzölçümü en küçük bağımsız devlet hangisidir?",
+    "options": [
+      "San Marino",
+      "Lihtenştayn",
+      "Vatikan",
+      "Monako"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q140",
+    "text": "Akdeniz'i Atlas Okyanusu'na bağlayan boğaz hangisidir?",
+    "options": [
+      "Malakka",
+      "Cebelitarık",
+      "Bering",
+      "Hürmüz"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q141",
+    "text": "Bering Boğazı hangi iki kıta arasındadır?",
+    "options": [
+      "Asya ve Kuzey Amerika",
+      "Avrupa ve Afrika",
+      "Asya ve Afrika",
+      "Avrupa ve Asya"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q142",
+    "text": "And Dağları hangi kıtadadır?",
+    "options": [
+      "Kuzey Amerika",
+      "Afrika",
+      "Avrupa",
+      "Güney Amerika"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q143",
+    "text": "Nil Nehri hangi denize dökülür?",
+    "options": [
+      "Karadeniz",
+      "Arap Denizi",
+      "Akdeniz",
+      "Kızıldeniz"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q144",
+    "text": "Türkiye'nin en büyük gölü hangisidir?",
+    "options": [
+      "Eğirdir Gölü",
+      "Van Gölü",
+      "Tuz Gölü",
+      "Beyşehir Gölü"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q145",
+    "text": "Türkiye'nin en yüksek dağı hangisidir?",
+    "options": [
+      "Ağrı Dağı",
+      "Erciyes",
+      "Kaçkar",
+      "Uludağ"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q146",
+    "text": "Pamukkale travertenleri hangi ildedir?",
+    "options": [
+      "Muğla",
+      "Aydın",
+      "Uşak",
+      "Denizli"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q147",
+    "text": "Atacama Çölü ağırlıklı olarak hangi ülkededir?",
+    "options": [
+      "Moğolistan",
+      "Avustralya",
+      "Şili",
+      "Mısır"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q148",
+    "text": "Dünyanın en derin tatlı su gölü hangisidir?",
+    "options": [
+      "Superior",
+      "Baykal",
+      "Tanganika",
+      "Victoria"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q149",
+    "text": "Titicaca Gölü hangi iki ülke arasındadır?",
+    "options": [
+      "Peru ve Bolivya",
+      "Şili ve Arjantin",
+      "Brezilya ve Uruguay",
+      "Kolombiya ve Venezuela"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q150",
+    "text": "Kilimanjaro hangi ülkededir?",
+    "options": [
+      "Kenya",
+      "Etiyopya",
+      "Uganda",
+      "Tanzanya"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q151",
+    "text": "Lesotho tamamen hangi ülkeyle çevrilidir?",
+    "options": [
+      "Botsvana",
+      "Zimbabve",
+      "Güney Afrika",
+      "Namibya"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q152",
+    "text": "Süveyş Kanalı hangi iki denizi bağlar?",
+    "options": [
+      "Adriyatik ve Baltık",
+      "Akdeniz ve Kızıldeniz",
+      "Karadeniz ve Hazar",
+      "Ege ve Marmara"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q153",
+    "text": "Panama Kanalı hangi iki okyanusu bağlar?",
+    "options": [
+      "Atlas ve Büyük",
+      "Hint ve Atlas",
+      "Arktik ve Hint",
+      "Güney ve Arktik"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q154",
+    "text": "Başlangıç meridyeni geleneksel olarak hangi yerden geçer?",
+    "options": [
+      "Paris",
+      "Roma",
+      "Madrid",
+      "Greenwich"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q155",
+    "text": "Dünya'nın en büyük adası hangisidir? (Kıtalar hariç)",
+    "options": [
+      "Borneo",
+      "Madagaskar",
+      "Grönland",
+      "Yeni Gine"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q156",
+    "text": "Madagaskar hangi okyanusta bulunur?",
+    "options": [
+      "Arktik Okyanusu",
+      "Hint Okyanusu",
+      "Atlas Okyanusu",
+      "Büyük Okyanus"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q157",
+    "text": "Gobi Çölü hangi iki ülkede uzanır?",
+    "options": [
+      "Çin ve Moğolistan",
+      "Hindistan ve Pakistan",
+      "İran ve Irak",
+      "Kazakistan ve Rusya"
+    ],
+    "correct": 0,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q158",
+    "text": "Fiyortlarıyla ünlü İskandinav ülkesi hangisidir?",
+    "options": [
+      "Belçika",
+      "Macaristan",
+      "Portekiz",
+      "Norveç"
+    ],
+    "correct": 3,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q159",
+    "text": "Türkiye'nin tamamı kendi sınırları içinde akan en uzun nehri hangisidir?",
+    "options": [
+      "Dicle",
+      "Meriç",
+      "Kızılırmak",
+      "Fırat"
+    ],
+    "correct": 2,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q160",
+    "text": "Kapadokya'daki Göreme Milli Parkı hangi ildedir?",
+    "options": [
+      "Aksaray",
+      "Nevşehir",
+      "Kayseri",
+      "Niğde"
+    ],
+    "correct": 1,
+    "category": "Coğrafya",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q161",
+    "text": "Suyun kimyasal formülü nedir?",
+    "options": [
+      "H2O",
+      "CO2",
+      "O2",
+      "NaCl"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q162",
+    "text": "Güneş Sistemi'nin en büyük gezegeni hangisidir?",
+    "options": [
+      "Satürn",
+      "Dünya",
+      "Neptün",
+      "Jüpiter"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Kolay",
+    "source": "https://science.nasa.gov/solar-system/planets/"
+  },
+  {
+    "id": "q163",
+    "text": "Kızıl Gezegen adıyla bilinen gezegen hangisidir?",
+    "options": [
+      "Merkür",
+      "Uranüs",
+      "Mars",
+      "Venüs"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Kolay",
+    "source": "https://science.nasa.gov/solar-system/planets/"
+  },
+  {
+    "id": "q164",
+    "text": "İnsan vücudunda kanı pompalayan organ hangisidir?",
+    "options": [
+      "Karaciğer",
+      "Kalp",
+      "Akciğer",
+      "Böbrek"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q165",
+    "text": "Bitkilerin ışıkla besin üretmesi hangi süreçtir?",
+    "options": [
+      "Fotosentez",
+      "Solunum",
+      "Fermantasyon",
+      "Buharlaşma"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q166",
+    "text": "Dünya'nın doğal uydusu hangisidir?",
+    "options": [
+      "Mars",
+      "Titan",
+      "Europa",
+      "Ay"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q167",
+    "text": "Soluduğumuz havada hacimce en çok bulunan gaz hangisidir?",
+    "options": [
+      "Karbondioksit",
+      "Hidrojen",
+      "Azot",
+      "Oksijen"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q168",
+    "text": "Elektrik akım şiddetinin SI birimi hangisidir?",
+    "options": [
+      "Watt",
+      "Amper",
+      "Volt",
+      "Ohm"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q169",
+    "text": "Kuvvetin SI birimi hangisidir?",
+    "options": [
+      "Newton",
+      "Joule",
+      "Pascal",
+      "Kelvin"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q170",
+    "text": "Dondurucuda suyun sıvıdan katıya geçmesine ne denir?",
+    "options": [
+      "Erime",
+      "Yoğuşma",
+      "Kaynama",
+      "Donma"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q171",
+    "text": "Işığın boşluktaki hızı yaklaşık kaç km/s'dir?",
+    "options": [
+      "3.000",
+      "3.000.000",
+      "300.000",
+      "30.000"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q172",
+    "text": "Güneş bir gök cismi olarak nedir?",
+    "options": [
+      "Kuyruklu yıldız",
+      "Yıldız",
+      "Gezegen",
+      "Uydu"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q173",
+    "text": "Maddenin gazdan sıvıya geçişine ne denir?",
+    "options": [
+      "Yoğuşma",
+      "Süblimleşme",
+      "Erime",
+      "Donma"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q174",
+    "text": "Atom çekirdeğinde pozitif yüklü parçacık hangisidir?",
+    "options": [
+      "Elektron",
+      "Nötron",
+      "Foton",
+      "Proton"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q175",
+    "text": "DNA'nın açılımındaki D hangi sözcüğün baş harfidir?",
+    "options": [
+      "Dijital",
+      "Difüzyon",
+      "Deoksiribo",
+      "Dinamik"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q176",
+    "text": "Sağlıklı bir insanda çekirdekli, diploit vücut hücresi normalde kaç kromozom içerir?",
+    "options": [
+      "48",
+      "46",
+      "23",
+      "44"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q177",
+    "text": "Hücrede protein sentezinin gerçekleştiği yapı hangisidir?",
+    "options": [
+      "Ribozom",
+      "Lizozom",
+      "Sentrozom",
+      "Koful"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q178",
+    "text": "Ökaryot hücrede ATP üretiminde başlıca görev alan organel hangisidir?",
+    "options": [
+      "Golgi aygıtı",
+      "Çekirdekçik",
+      "Koful",
+      "Mitokondri"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q179",
+    "text": "pH değeri 7'nin altında olan sulu çözelti genellikle nasıldır?",
+    "options": [
+      "Nötr",
+      "Mutlaka tuzlu",
+      "Asidik",
+      "Bazik"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q180",
+    "text": "Altının kimyasal sembolü hangisidir?",
+    "options": [
+      "Ar",
+      "Au",
+      "Ag",
+      "Al"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q181",
+    "text": "Demirin kimyasal sembolü hangisidir?",
+    "options": [
+      "Fe",
+      "F",
+      "Fr",
+      "Fm"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q182",
+    "text": "Periyodik tabloda atom numarası 1 olan element hangisidir?",
+    "options": [
+      "Helyum",
+      "Lityum",
+      "Karbon",
+      "Hidrojen"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q183",
+    "text": "Ses hangi ortamda yayılamaz?",
+    "options": [
+      "Çelik",
+      "Hava",
+      "Boşluk",
+      "Su"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q184",
+    "text": "Yer kabuğunu inceleyen bilim dalı hangisidir?",
+    "options": [
+      "Astronomi",
+      "Jeoloji",
+      "Zooloji",
+      "Meteoroloji"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q185",
+    "text": "Kalıtımı inceleyen bilim dalı hangisidir?",
+    "options": [
+      "Genetik",
+      "Ekoloji",
+      "Anatomi",
+      "Taksonomi"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q186",
+    "text": "Güneş'e en yakın gezegen hangisidir?",
+    "options": [
+      "Venüs",
+      "Dünya",
+      "Mars",
+      "Merkür"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Orta",
+    "source": "https://science.nasa.gov/solar-system/planets/"
+  },
+  {
+    "id": "q187",
+    "text": "Işık yılı neyin birimidir?",
+    "options": [
+      "Kütle",
+      "Sıcaklık",
+      "Uzaklık",
+      "Zaman"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q188",
+    "text": "Avogadro sabitinin yaklaşık değeri hangisidir?",
+    "options": [
+      "1,602 × 10⁻¹⁹ mol⁻¹",
+      "6,022 × 10²³ mol⁻¹",
+      "3 × 10⁸ mol⁻¹",
+      "9,81 mol⁻¹"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q189",
+    "text": "Elektrik direncinin SI birimi hangisidir?",
+    "options": [
+      "Ohm",
+      "Tesla",
+      "Farad",
+      "Henry"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q190",
+    "text": "Manyetik akı yoğunluğunun SI birimi hangisidir?",
+    "options": [
+      "Weber",
+      "Coulomb",
+      "Siemens",
+      "Tesla"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q191",
+    "text": "Mutlak sıfır Celsius ölçeğinde kaç derecedir?",
+    "options": [
+      "0",
+      "−459,67",
+      "−273,15",
+      "−100"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q192",
+    "text": "Hücre zarının temel yapısal bileşenlerinden biri hangisidir?",
+    "options": [
+      "Keratin",
+      "Fosfolipit",
+      "Selüloz",
+      "Nişasta"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q193",
+    "text": "Bakterilerde belirgin zarla çevrili çekirdek bulunmamasını ifade eden terim hangisidir?",
+    "options": [
+      "Prokaryot",
+      "Ökaryot",
+      "Ototrof",
+      "Heterotrof"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q194",
+    "text": "Mitoz bölünme sonunda genellikle kaç yavru hücre oluşur?",
+    "options": [
+      "3",
+      "4",
+      "8",
+      "2"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q195",
+    "text": "Mayozda kromozom sayısı genel olarak nasıl değişir?",
+    "options": [
+      "Üçe katlanır",
+      "Sıfırlanır",
+      "Yarıya iner",
+      "İkiye katlanır"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q196",
+    "text": "Elektronun elektrik yükü nasıldır?",
+    "options": [
+      "Her zaman değişken",
+      "Negatif",
+      "Pozitif",
+      "Yüksüz"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q197",
+    "text": "Radyoaktivite için kullanılan SI birimi hangisidir?",
+    "options": [
+      "Becquerel",
+      "Newton",
+      "Kelvin",
+      "Lümen"
+    ],
+    "correct": 0,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q198",
+    "text": "Güneş Sistemi hangi galakside bulunur?",
+    "options": [
+      "Andromeda",
+      "Üçgen",
+      "Sombrero",
+      "Samanyolu"
+    ],
+    "correct": 3,
+    "category": "Bilim",
+    "difficulty": "Zor",
+    "source": "https://science.nasa.gov/solar-system/solar-system-facts/"
+  },
+  {
+    "id": "q199",
+    "text": "Standart atmosfer basıncında saf su kaç Celsius derecede kaynar?",
+    "options": [
+      "80",
+      "120",
+      "100",
+      "90"
+    ],
+    "correct": 2,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q200",
+    "text": "Bir elementin izotoplarının hangi sayıları farklıdır?",
+    "options": [
+      "Çekirdek yükü",
+      "Nötron",
+      "Proton",
+      "Atom numarası"
+    ],
+    "correct": 1,
+    "category": "Bilim",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q201",
+    "text": "Bir web sayfasının yapısını tanımlamakta hangi dil kullanılır?",
+    "options": [
+      "HTML",
+      "SQL",
+      "Python",
+      "C"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q202",
+    "text": "Web sayfasının görünümünü biçimlendiren teknoloji hangisidir?",
+    "options": [
+      "DNS",
+      "SMTP",
+      "USB",
+      "CSS"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q203",
+    "text": "İnternet adreslerini IP adresleriyle eşleştiren sistem hangisidir?",
+    "options": [
+      "PDF",
+      "CPU",
+      "DNS",
+      "GPS"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q204",
+    "text": "Bilgisayarın merkezi işlem biriminin kısaltması hangisidir?",
+    "options": [
+      "USB",
+      "CPU",
+      "RAM",
+      "SSD"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q205",
+    "text": "Bilgisayarın geçici çalışma belleği hangisidir?",
+    "options": [
+      "RAM",
+      "ROM",
+      "DVD",
+      "HDD"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q206",
+    "text": "Taşınabilir belge biçiminin yaygın kısaltması hangisidir?",
+    "options": [
+      "PNG",
+      "MP3",
+      "CSV",
+      "PDF"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q207",
+    "text": "Fotoğraf dosyalarında yaygın kullanılan biçim hangisidir?",
+    "options": [
+      "WAV",
+      "EXE",
+      "JPEG",
+      "MP3"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q208",
+    "text": "Ses dosyası biçimi hangisidir?",
+    "options": [
+      "ZIP",
+      "MP3",
+      "PNG",
+      "HTML"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q209",
+    "text": "Konum belirlemede kullanılan uydu sistemi hangisidir?",
+    "options": [
+      "GPS",
+      "CSS",
+      "HTTP",
+      "RAM"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q210",
+    "text": "Kablosuz yerel ağ bağlantısı hangi adla bilinir?",
+    "options": [
+      "HDMI",
+      "SATA",
+      "Ethernet kablosu",
+      "Wi-Fi"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q211",
+    "text": "Kısa mesafeli kablosuz aygıt iletişimi teknolojisi hangisidir?",
+    "options": [
+      "SQL",
+      "PDF",
+      "Bluetooth",
+      "HTML"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q212",
+    "text": "Bilgisayarda geri alma için yaygın Windows kısayolu hangisidir?",
+    "options": [
+      "Ctrl+F",
+      "Ctrl+Z",
+      "Ctrl+P",
+      "Ctrl+S"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q213",
+    "text": "İkili sayı sistemi hangi iki rakamı kullanır?",
+    "options": [
+      "0 ve 1",
+      "1 ve 2",
+      "0 ve 9",
+      "2 ve 8"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q214",
+    "text": "Bir bayt kaç bittir?",
+    "options": [
+      "4",
+      "16",
+      "32",
+      "8"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q215",
+    "text": "HTTPS'teki S neyi ifade eder?",
+    "options": [
+      "Server",
+      "Search",
+      "Secure",
+      "Simple"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q216",
+    "text": "İlişkisel veritabanlarında sorgulama için yaygın dil hangisidir?",
+    "options": [
+      "SVG",
+      "SQL",
+      "CSS",
+      "HTML"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q217",
+    "text": "Git hangi amaçla kullanılır?",
+    "options": [
+      "Sürüm kontrolü",
+      "Fotoğraf çekimi",
+      "Ekran parlaklığı ölçümü",
+      "Uydu yönlendirmesi"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q218",
+    "text": "Linux çekirdeğini ilk geliştiren kimdir?",
+    "options": [
+      "Tim Berners-Lee",
+      "Guido van Rossum",
+      "Dennis Ritchie",
+      "Linus Torvalds"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q219",
+    "text": "Python dilinin yaratıcısı kimdir?",
+    "options": [
+      "Bjarne Stroustrup",
+      "Brendan Eich",
+      "Guido van Rossum",
+      "James Gosling"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q220",
+    "text": "World Wide Web'i geliştiren kişi kimdir?",
+    "options": [
+      "Alan Turing",
+      "Tim Berners-Lee",
+      "Steve Jobs",
+      "Bill Gates"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Orta",
+    "source": "https://home.cern/science/computing/the-birth-of-the-web"
+  },
+  {
+    "id": "q221",
+    "text": "C programlama dilinin geliştirilmesinde öne çıkan kişi kimdir?",
+    "options": [
+      "Dennis Ritchie",
+      "Niklaus Wirth",
+      "John McCarthy",
+      "Anders Hejlsberg"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q222",
+    "text": "Java dilinin geliştirilmesinde öne çıkan kişi kimdir?",
+    "options": [
+      "Guido van Rossum",
+      "Ken Thompson",
+      "Larry Wall",
+      "James Gosling"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q223",
+    "text": "JavaScript'i ilk geliştiren kişi kimdir?",
+    "options": [
+      "Ada Lovelace",
+      "Donald Knuth",
+      "Brendan Eich",
+      "Linus Torvalds"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q224",
+    "text": "Bir işlevin kendisini çağırmasına ne denir?",
+    "options": [
+      "Sıkıştırma",
+      "Özyineleme",
+      "Derleme",
+      "Şifreleme"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q225",
+    "text": "Bilgisayarda ekran görüntüsünü işleyen birimin yaygın kısaltması hangisidir?",
+    "options": [
+      "GPU",
+      "DNS",
+      "URL",
+      "NFC"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q226",
+    "text": "SSD'nin geleneksel sabit diske göre temel fiziksel farkı nedir?",
+    "options": [
+      "Mutlaka optik disk kullanması",
+      "Yalnız ses saklaması",
+      "Elektriksiz çalışması",
+      "Hareketli mekanik parça kullanmaması"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q227",
+    "text": "HTTP 404 durum kodu genellikle ne anlama gelir?",
+    "options": [
+      "Kalıcı yönlendirme",
+      "Sunucu iç hatası",
+      "Kaynak bulunamadı",
+      "İstek başarılı"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q228",
+    "text": "HTTP 200 durum kodu neyi belirtir?",
+    "options": [
+      "Sunucu iç hatası",
+      "Başarılı istek",
+      "Yetkisiz erişim",
+      "Kaynak bulunamadı"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q229",
+    "text": "IPv4 adresi kaç bittir?",
+    "options": [
+      "32",
+      "16",
+      "64",
+      "128"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q230",
+    "text": "IPv6 adresi kaç bittir?",
+    "options": [
+      "32",
+      "64",
+      "256",
+      "128"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q231",
+    "text": "Alan adı hiyerarşisinde .tr hangi ülkenin kodudur?",
+    "options": [
+      "Tunus",
+      "Tayland",
+      "Türkiye",
+      "Türkmenistan"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q232",
+    "text": "JSON kısaltmasının son harfi hangi sözcüğü temsil eder?",
+    "options": [
+      "Number",
+      "Notation",
+      "Network",
+      "Node"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q233",
+    "text": "TCP protokolünün temel özelliklerinden biri hangisidir?",
+    "options": [
+      "Sıralı ve güvenilir veri aktarımı",
+      "Yalnız görüntü sıkıştırma",
+      "Alan adı kaydı",
+      "Elektrik üretimi"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q234",
+    "text": "UDP'nin TCP'den farklarından biri hangisidir?",
+    "options": [
+      "Her zaman bağlantı kurması",
+      "Yalnız dosya sistemi olması",
+      "Sadece kablolu çalışması",
+      "Teslim garantisi sağlamaması"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q235",
+    "text": "SHA-256 algoritmasının çıktısı kaç bittir?",
+    "options": [
+      "512",
+      "64",
+      "256",
+      "128"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q236",
+    "text": "İki faktörlü kimlik doğrulamanın amacı nedir?",
+    "options": [
+      "Her hesabı aynı parolaya geçirmek",
+      "Farklı türde ikinci kanıt istemek",
+      "Parolayı herkese göstermek",
+      "Şifrelemeyi kapatmak"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q237",
+    "text": "Açık anahtarlı şifrelemede anahtar çifti hangisidir?",
+    "options": [
+      "Açık ve özel anahtar",
+      "İki aynı açık anahtar",
+      "İki aynı parola",
+      "Yalnız oturum adı"
+    ],
+    "correct": 0,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q238",
+    "text": "Veri tabanında PRIMARY KEY'in temel amacı nedir?",
+    "options": [
+      "Her hücreyi şifrelemek",
+      "Tabloyu gizlemek",
+      "Veriyi sıkıştırmak",
+      "Satırları benzersiz tanımlamak"
+    ],
+    "correct": 3,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q239",
+    "text": "CSS'te flexbox temel olarak ne için kullanılır?",
+    "options": [
+      "Sunucu başlatma",
+      "Dosya şifreleme",
+      "Tek boyutlu yerleşim",
+      "Veritabanı sorgulama"
+    ],
+    "correct": 2,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q240",
+    "text": "WebSocket bağlantısı hangi tür iletişimi destekler?",
+    "options": [
+      "Yalnız çevrimdışı depolama",
+      "Çift yönlü iletişim",
+      "Yalnız sunucudan dosya indirme",
+      "Yalnız e-posta gönderme"
+    ],
+    "correct": 1,
+    "category": "Teknoloji",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q241",
+    "text": "Hababam Sınıfı'nda İnek Şaban'ı kim canlandırdı?",
+    "options": [
+      "Kemal Sunal",
+      "Şener Şen",
+      "Tarık Akan",
+      "Halit Akçatepe"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q242",
+    "text": "Tosun Paşa filminde başrolü kim oynadı?",
+    "options": [
+      "Cüneyt Arkın",
+      "Ediz Hun",
+      "Kadir İnanır",
+      "Kemal Sunal"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q243",
+    "text": "Titanic filminin yönetmeni kimdir?",
+    "options": [
+      "Ridley Scott",
+      "Peter Jackson",
+      "James Cameron",
+      "Steven Spielberg"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q244",
+    "text": "Harry Potter filmlerinde Harry'yi kim oynadı?",
+    "options": [
+      "Elijah Wood",
+      "Daniel Radcliffe",
+      "Rupert Grint",
+      "Tom Felton"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q245",
+    "text": "Yüzüklerin Efendisi filmlerinde yüzüğü taşıyan hobbit kimdir?",
+    "options": [
+      "Frodo",
+      "Aragorn",
+      "Legolas",
+      "Gimli"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q246",
+    "text": "Star Wars'ta Darth Vader'ın önceki adı nedir?",
+    "options": [
+      "Luke Skywalker",
+      "Han Solo",
+      "Obi-Wan Kenobi",
+      "Anakin Skywalker"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q247",
+    "text": "Oyuncak Hikayesi'ndeki kovboy oyuncağın adı nedir?",
+    "options": [
+      "Rex",
+      "Slinky",
+      "Woody",
+      "Buzz"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q248",
+    "text": "Aslan Kral'daki genç aslanın adı nedir?",
+    "options": [
+      "Timon",
+      "Simba",
+      "Mufasa",
+      "Scar"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q249",
+    "text": "Shrek nasıl bir masal yaratığıdır?",
+    "options": [
+      "Dev",
+      "Ejderha",
+      "Cüce",
+      "Peri"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q250",
+    "text": "Karayip Korsanları'nda Jack Sparrow'u kim canlandırır?",
+    "options": [
+      "Orlando Bloom",
+      "Brad Pitt",
+      "Tom Cruise",
+      "Johnny Depp"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q251",
+    "text": "Friends dizisindeki altı arkadaşın sık buluştuğu kafe hangisidir?",
+    "options": [
+      "MacLaren's",
+      "Luke's Diner",
+      "Central Perk",
+      "Monk's Cafe"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q252",
+    "text": "Breaking Bad'in başkarakteri kimdir?",
+    "options": [
+      "Dexter Morgan",
+      "Walter White",
+      "Tony Soprano",
+      "Michael Scott"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q253",
+    "text": "Sherlock Holmes'un yakın dostu doktor kimdir?",
+    "options": [
+      "John Watson",
+      "James Moriarty",
+      "Gregory House",
+      "John Dorian"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q254",
+    "text": "Matrix filminde Neo'yu kim oynadı?",
+    "options": [
+      "Brad Pitt",
+      "Tom Cruise",
+      "Matt Damon",
+      "Keanu Reeves"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q255",
+    "text": "Baba filminin yönetmeni kimdir?",
+    "options": [
+      "Brian De Palma",
+      "Sergio Leone",
+      "Francis Ford Coppola",
+      "Martin Scorsese"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q256",
+    "text": "Esaretin Bedeli'nde Andy Dufresne'i kim canlandırdı?",
+    "options": [
+      "Kevin Costner",
+      "Tim Robbins",
+      "Morgan Freeman",
+      "Tom Hanks"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q257",
+    "text": "Forrest Gump'ın başrol oyuncusu kimdir?",
+    "options": [
+      "Tom Hanks",
+      "Tom Cruise",
+      "Robin Williams",
+      "Sean Penn"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q258",
+    "text": "Inception filminin yönetmeni kimdir?",
+    "options": [
+      "David Fincher",
+      "Denis Villeneuve",
+      "Wes Anderson",
+      "Christopher Nolan"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q259",
+    "text": "Pulp Fiction filmini kim yönetti?",
+    "options": [
+      "Robert Rodriguez",
+      "Coen Kardeşler",
+      "Quentin Tarantino",
+      "Guy Ritchie"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q260",
+    "text": "Jurassic Park'ın 1993 yapımı filmini kim yönetti?",
+    "options": [
+      "Ron Howard",
+      "Steven Spielberg",
+      "George Lucas",
+      "James Cameron"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q261",
+    "text": "Alien filminin 1979 yapımını kim yönetti?",
+    "options": [
+      "Ridley Scott",
+      "James Cameron",
+      "David Fincher",
+      "John Carpenter"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q262",
+    "text": "Amélie filmi ağırlıklı olarak hangi şehirde geçer?",
+    "options": [
+      "Roma",
+      "Madrid",
+      "Londra",
+      "Paris"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q263",
+    "text": "Spirited Away / Ruhların Kaçışı'nın yönetmeni kimdir?",
+    "options": [
+      "Mamoru Hosoda",
+      "Makoto Shinkai",
+      "Hayao Miyazaki",
+      "Satoshi Kon"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q264",
+    "text": "2020'de En İyi Film Oscar'ını kazanan Güney Kore filmi hangisidir?",
+    "options": [
+      "Burning",
+      "Parazit",
+      "Oldboy",
+      "Train to Busan"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta",
+    "source": "https://www.oscars.org/oscars/ceremonies/2020/S"
+  },
+  {
+    "id": "q265",
+    "text": "Nuri Bilge Ceylan'ın 2014 Altın Palmiye kazanan filmi hangisidir?",
+    "options": [
+      "Kış Uykusu",
+      "Bir Zamanlar Anadolu'da",
+      "Uzak",
+      "Ahlat Ağacı"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta",
+    "source": "https://www.festival-cannes.com/en/f/winter-sleep/"
+  },
+  {
+    "id": "q266",
+    "text": "Yeşilçam adı hangi şehrin sinema endüstrisiyle özdeşleşir?",
+    "options": [
+      "Ankara",
+      "İzmir",
+      "Adana",
+      "İstanbul"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q267",
+    "text": "Yol filminin 1982 Cannes Altın Palmiye ödülünü paylaştığı film hangisidir?",
+    "options": [
+      "Blade Runner",
+      "Gandhi",
+      "Missing",
+      "E.T."
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor",
+    "source": "https://www.festival-cannes.com/en/retrospective/1982/awards/"
+  },
+  {
+    "id": "q268",
+    "text": "Metropolis adlı 1927 filminin yönetmeni kimdir?",
+    "options": [
+      "Charlie Chaplin",
+      "Fritz Lang",
+      "F. W. Murnau",
+      "Sergei Eisenstein"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q269",
+    "text": "Yurttaş Kane'in yönetmeni ve başrol oyuncusu kimdir?",
+    "options": [
+      "Orson Welles",
+      "Alfred Hitchcock",
+      "John Ford",
+      "Billy Wilder"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q270",
+    "text": "Yedi Samuray filmini kim yönetti?",
+    "options": [
+      "Yasujiro Ozu",
+      "Kenji Mizoguchi",
+      "Hirokazu Kore-eda",
+      "Akira Kurosawa"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q271",
+    "text": "Bisiklet Hırsızları'nın yönetmeni kimdir?",
+    "options": [
+      "Roberto Rossellini",
+      "Luchino Visconti",
+      "Vittorio De Sica",
+      "Federico Fellini"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q272",
+    "text": "2001: Bir Uzay Destanı filmini kim yönetti?",
+    "options": [
+      "Ridley Scott",
+      "Stanley Kubrick",
+      "Andrei Tarkovsky",
+      "George Lucas"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q273",
+    "text": "Persona filminin yönetmeni kimdir?",
+    "options": [
+      "Ingmar Bergman",
+      "Lars von Trier",
+      "Carl Theodor Dreyer",
+      "Aki Kaurismaki"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q274",
+    "text": "Stalker filminin yönetmeni kimdir?",
+    "options": [
+      "Sergei Eisenstein",
+      "Nikita Mikhalkov",
+      "Elem Klimov",
+      "Andrei Tarkovsky"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q275",
+    "text": "The Office'in ABD uyarlamasında Michael Scott'ı kim oynar?",
+    "options": [
+      "John Krasinski",
+      "Ed Helms",
+      "Steve Carell",
+      "Rainn Wilson"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q276",
+    "text": "Game of Thrones'ta Tyrion Lannister'ı kim canlandırır?",
+    "options": [
+      "Sean Bean",
+      "Peter Dinklage",
+      "Kit Harington",
+      "Nikolaj Coster-Waldau"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q277",
+    "text": "The Sopranos'ta Tony Soprano'yu kim oynadı?",
+    "options": [
+      "James Gandolfini",
+      "Steve Buscemi",
+      "Michael Imperioli",
+      "Edie Falco"
+    ],
+    "correct": 0,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q278",
+    "text": "Better Call Saul'da Saul Goodman'ın gerçek adı nedir?",
+    "options": [
+      "Jesse Pinkman",
+      "Gus Fring",
+      "Mike Ehrmantraut",
+      "Jimmy McGill"
+    ],
+    "correct": 3,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q279",
+    "text": "Black Mirror'ın yaratıcısı kimdir?",
+    "options": [
+      "David Chase",
+      "Jesse Armstrong",
+      "Charlie Brooker",
+      "Vince Gilligan"
+    ],
+    "correct": 2,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q280",
+    "text": "The Queen's Gambit dizisinin merkezindeki oyun hangisidir?",
+    "options": [
+      "Poker",
+      "Satranç",
+      "Go",
+      "Briç"
+    ],
+    "correct": 1,
+    "category": "Sinema ve Diziler",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q281",
+    "text": "Standart beşe beş basketbolda bir takım sahada kaç oyuncuyla oynar?",
+    "options": [
+      "5",
+      "6",
+      "7",
+      "11"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q282",
+    "text": "Salon voleybolunda bir takım sahada kaç oyuncuyla oynar?",
+    "options": [
+      "5",
+      "7",
+      "8",
+      "6"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q283",
+    "text": "Teniste topa vurmak için kullanılan araç hangisidir?",
+    "options": [
+      "Yay",
+      "Istaka",
+      "Raket",
+      "Sopa"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q284",
+    "text": "Olimpiyat sembolünde kaç halka vardır?",
+    "options": [
+      "7",
+      "5",
+      "4",
+      "6"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q285",
+    "text": "Yüzmede sırt üstü yapılan stil hangisidir?",
+    "options": [
+      "Sırtüstü",
+      "Kurbağalama",
+      "Kelebek",
+      "Serbestin zorunlu biçimi"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q286",
+    "text": "Satranç tahtasında kaç kare bulunur?",
+    "options": [
+      "32",
+      "81",
+      "100",
+      "64"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q287",
+    "text": "Boksta müsabakanın yapıldığı alanın adı nedir?",
+    "options": [
+      "Pist",
+      "Havuz",
+      "Ring",
+      "Kort"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q288",
+    "text": "Golfte topu deliğe sokmak için kullanılan araç hangisidir?",
+    "options": [
+      "Kürek",
+      "Golf sopası",
+      "Raket",
+      "Istaka"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q289",
+    "text": "Buz hokeyinde kullanılan disk biçimli nesneye ne denir?",
+    "options": [
+      "Pak",
+      "Mekik",
+      "Topaç",
+      "Kuka"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q290",
+    "text": "Badmintonda hangi araçla vuruş yapılır?",
+    "options": [
+      "Sopa",
+      "Istaka",
+      "Eldiven",
+      "Raket"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q291",
+    "text": "Formula 1 hangi spor dalına aittir?",
+    "options": [
+      "Atletizm",
+      "Yelken",
+      "Motor sporları",
+      "Bisiklet"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q292",
+    "text": "Maratonun standart mesafesi kaç kilometredir?",
+    "options": [
+      "50",
+      "42,195",
+      "40",
+      "21,0975"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Kolay",
+    "source": "https://worldathletics.org/disciplines/relays/marathon"
+  },
+  {
+    "id": "q293",
+    "text": "Olimpik uzun kulvar yüzme havuzunun uzunluğu kaç metredir?",
+    "options": [
+      "50",
+      "25",
+      "75",
+      "100"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Kolay"
+  },
+  {
+    "id": "q294",
+    "text": "Basketbolda serbest atış kaç puandır?",
+    "options": [
+      "2",
+      "3",
+      "4",
+      "1"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q295",
+    "text": "Basketbolda üç sayı çizgisinin dışından başarılı atış kaç puandır?",
+    "options": [
+      "2",
+      "4",
+      "3",
+      "1"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q296",
+    "text": "Standart voleybolda karar seti kaç sayıya kadar oynanır? (İki fark koşuluyla)",
+    "options": [
+      "30",
+      "15",
+      "21",
+      "25"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q297",
+    "text": "Standart voleybolda ilk dört set kaç sayıya kadar oynanır? (İki fark koşuluyla)",
+    "options": [
+      "25",
+      "15",
+      "21",
+      "30"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q298",
+    "text": "Teniste sıfır puan için kullanılan terim hangisidir?",
+    "options": [
+      "Ace",
+      "Deuce",
+      "Let",
+      "Love"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q299",
+    "text": "Teniste 40-40 eşitliği nasıl adlandırılır?",
+    "options": [
+      "Ace",
+      "Break",
+      "Deuce",
+      "Love"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q300",
+    "text": "Wimbledon tenis turnuvası hangi zeminde oynanır?",
+    "options": [
+      "Parke",
+      "Çim",
+      "Toprak",
+      "Sert"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q301",
+    "text": "Roland Garros hangi zeminde oynanır?",
+    "options": [
+      "Toprak",
+      "Çim",
+      "Parke",
+      "Buz"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q302",
+    "text": "Tour de France hangi sporun yarışıdır?",
+    "options": [
+      "Atletizm",
+      "Motor yarışı",
+      "Yüzme",
+      "Bisiklet"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q303",
+    "text": "Modern ilk Olimpiyat Oyunları 1896'da hangi şehirde yapıldı?",
+    "options": [
+      "Londra",
+      "Roma",
+      "Atina",
+      "Paris"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Orta",
+    "source": "https://worldathletics.org/disciplines/relays/marathon"
+  },
+  {
+    "id": "q304",
+    "text": "100 metre koşusunda 2009'da 9,58 saniye koşan atlet kimdir?",
+    "options": [
+      "Asafa Powell",
+      "Usain Bolt",
+      "Tyson Gay",
+      "Yohan Blake"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q305",
+    "text": "Naim Süleymanoğlu hangi spor dalında ün kazandı?",
+    "options": [
+      "Halter",
+      "Güreş",
+      "Boks",
+      "Jimnastik"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q306",
+    "text": "Mete Gazoz hangi spor dalında olimpiyat altını kazandı?",
+    "options": [
+      "Atıcılık",
+      "Eskrim",
+      "Yelken",
+      "Okçuluk"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Orta"
+  },
+  {
+    "id": "q307",
+    "text": "Dekatlon kaç branştan oluşur?",
+    "options": [
+      "8",
+      "12",
+      "10",
+      "7"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q308",
+    "text": "Heptatlon kaç branştan oluşur?",
+    "options": [
+      "10",
+      "7",
+      "5",
+      "8"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q309",
+    "text": "Triatlonda hangi üç disiplin bulunur?",
+    "options": [
+      "Yüzme, bisiklet, koşu",
+      "Koşu, atlama, atma",
+      "Yüzme, kürek, yelken",
+      "Bisiklet, kayak, güreş"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q310",
+    "text": "Biatlonda hangi iki disiplin birleştirilir?",
+    "options": [
+      "Yüzme ve koşu",
+      "Bisiklet ve kürek",
+      "Kayakla atlama ve paten",
+      "Kayaklı koşu ve atıcılık"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q311",
+    "text": "Eskrimde kullanılan silahlardan hangisi geçerlidir?",
+    "options": [
+      "Balta",
+      "Mızrak",
+      "Flöre",
+      "Gürz"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q312",
+    "text": "Judoda tam puanla galibiyeti ifade eden terim hangisidir?",
+    "options": [
+      "Touchdown",
+      "İppon",
+      "Ace",
+      "Mat"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q313",
+    "text": "Ragbide try, standart rugby union kurallarında kaç puandır?",
+    "options": [
+      "5",
+      "3",
+      "4",
+      "6"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q314",
+    "text": "Amerikan futbolunda touchdown kaç puandır?",
+    "options": [
+      "3",
+      "5",
+      "7",
+      "6"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q315",
+    "text": "Snooker'da siyah top kaç puandır?",
+    "options": [
+      "6",
+      "8",
+      "7",
+      "5"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q316",
+    "text": "Snooker'da kırmızı top kaç puandır?",
+    "options": [
+      "4",
+      "1",
+      "2",
+      "3"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q317",
+    "text": "Standart dart tahtasında üçlü 20 bölgesi kaç puan verir?",
+    "options": [
+      "60",
+      "40",
+      "50",
+      "80"
+    ],
+    "correct": 0,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q318",
+    "text": "Curling'de sporcular buz üzerinde neyi kaydırır?",
+    "options": [
+      "Pak",
+      "Top",
+      "Kuka",
+      "Taş"
+    ],
+    "correct": 3,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q319",
+    "text": "Olimpik erkekler 110 metre engellide kaç engel bulunur?",
+    "options": [
+      "12",
+      "14",
+      "10",
+      "8"
+    ],
+    "correct": 2,
+    "category": "Spor",
+    "difficulty": "Zor"
+  },
+  {
+    "id": "q320",
+    "text": "NBA'de normal maçın bir periyodu kaç dakikadır?",
+    "options": [
+      "8",
+      "12",
+      "10",
+      "15"
+    ],
+    "correct": 1,
+    "category": "Spor",
+    "difficulty": "Zor",
+    "source": "https://www.nba.com/news/faq"
+  }
+]
