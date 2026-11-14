@@ -1,4 +1,4 @@
-name: NOVA OS Windows release
+name: NOVA OS v0.2 Windows internet installer
 on:
   push:
     branches:
@@ -9,37 +9,52 @@ on:
 permissions:
   contents: write
 jobs:
-  package:
+  release:
     runs-on: windows-latest
+    timeout-minutes: 25
     steps:
-      - name: Checkout source
-        uses: actions/checkout@v4
+      - uses: actions/checkout@v4
       - name: Set up Go
         uses: actions/setup-go@v5
         with:
           go-version: '1.23.2'
-      - name: Build Windows installer and portable app
+      - name: Build Windows desktop and web installer
         shell: pwsh
         run: |
+          $ErrorActionPreference = 'Stop'
           [IO.File]::WriteAllBytes('nova-os/icon.ico',[Convert]::FromBase64String([IO.File]::ReadAllText('nova-os/icon.b64')))
-          cd nova-os
           $env:GOOS='windows'
           $env:GOARCH='amd64'
           $env:CGO_ENABLED='0'
-          go build -trimpath -ldflags='-H=windowsgui -s -w' -o '../NOVA_OS_Portable.exe' main_windows.go
-          Copy-Item ../NOVA_OS_Portable.exe ../NOVA_OS_Setup.exe
-      - name: Publish binaries as GitHub release
+          cd nova-os
+          go build -trimpath -ldflags='-s -w -H windowsgui' -o '../NOVA_OS.exe' main_windows.go
+          go build -trimpath -ldflags='-s -w -H windowsgui' -o '../NOVA_OS_WebInstaller.exe' installer_windows.go
+          cd ..
+          New-Item -ItemType Directory -Force -Path package | Out-Null
+          Copy-Item NOVA_OS.exe package/NOVA_OS.exe
+          Compress-Archive -Path package/NOVA_OS.exe -DestinationPath NOVA_OS_Package.zip -Force -CompressionLevel Optimal
+          $hash=(Get-FileHash NOVA_OS_Package.zip -Algorithm SHA256).Hash.ToLowerInvariant()
+          [IO.File]::WriteAllText('SHA256SUMS.txt', "$hash  NOVA_OS_Package.zip`n", (New-Object System.Text.UTF8Encoding($false)))
+          Write-Host "Package SHA256: $hash"
+          Get-Item NOVA_OS.exe,NOVA_OS_WebInstaller.exe,NOVA_OS_Package.zip,SHA256SUMS.txt | Select Name,Length
+      - name: Publish install files on GitHub Releases
         uses: softprops/action-gh-release@v2
         with:
-          tag_name: nova-os-v0.1
-          name: NOVA OS v0.1 Preview
+          tag_name: nova-os-v0.2.0
+          name: NOVA OS 0.2 Beta • Sanal Masaüstü
           target_commitish: nova-os-release-20261114
           draft: false
           prerelease: true
+          make_latest: false
+          fail_on_unmatched_files: true
           files: |
-            NOVA_OS_Setup.exe
-            NOVA_OS_Portable.exe
+            NOVA_OS_WebInstaller.exe
+            NOVA_OS_Package.zip
+            NOVA_OS.exe
+            SHA256SUMS.txt
           body: |
-            NOVA OS: hafif, sanal Windows 11 benzeri masaüstü.
-            Gerçek Windows 11 veya donanım emülatörü değildir.
-            Microsoft Edge kurulu Windows 11 gerekir; VirtualBox gerekmez.
+            NOVA OS v0.2 Beta: Windows 11 temalı sanal masaüstü deneyimi.
+            Windows 11 uygulaması; gerçek ayrı işletim sistemi, GPU veya RAM emülatörü değildir.
+            İlk olarak NOVA_OS_WebInstaller.exe dosyasını indirin. "KUR VE İNDİR" butonu bu GitHub sayfasını açar, paketi indirir, SHA256 ile kontrol eder, kullanıcı klasörüne kurar ve başlatır.
+            Windows 11 + Microsoft Edge gerekir. VirtualBox, ISO, Python gerektirmez.
+            Sunulan EXE imzasızdır; Windows SmartScreen uyarısı görülebilir.
