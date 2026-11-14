@@ -1,0 +1,45 @@
+name: NOVA OS Windows release
+on:
+  push:
+    branches:
+      - nova-os-release-20261114
+    paths:
+      - 'nova-os/**'
+      - '.github/workflows/nova-os-build.yml'
+permissions:
+  contents: write
+jobs:
+  package:
+    runs-on: windows-latest
+    steps:
+      - name: Checkout source
+        uses: actions/checkout@v4
+      - name: Set up Go
+        uses: actions/setup-go@v5
+        with:
+          go-version: '1.23.2'
+      - name: Build Windows installer and portable app
+        shell: pwsh
+        run: |
+          [IO.File]::WriteAllBytes('nova-os/icon.ico',[Convert]::FromBase64String([IO.File]::ReadAllText('nova-os/icon.b64')))
+          cd nova-os
+          $env:GOOS='windows'
+          $env:GOARCH='amd64'
+          $env:CGO_ENABLED='0'
+          go build -trimpath -ldflags='-H=windowsgui -s -w' -o '../NOVA_OS_Portable.exe' main_windows.go
+          Copy-Item ../NOVA_OS_Portable.exe ../NOVA_OS_Setup.exe
+      - name: Publish binaries as GitHub release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: nova-os-v0.1
+          name: NOVA OS v0.1 Preview
+          target_commitish: nova-os-release-20261114
+          draft: false
+          prerelease: true
+          files: |
+            NOVA_OS_Setup.exe
+            NOVA_OS_Portable.exe
+          body: |
+            NOVA OS: hafif, sanal Windows 11 benzeri masaüstü.
+            Gerçek Windows 11 veya donanım emülatörü değildir.
+            Microsoft Edge kurulu Windows 11 gerekir; VirtualBox gerekmez.
