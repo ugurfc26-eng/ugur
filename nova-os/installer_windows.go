@@ -7,6 +7,7 @@ import (
  "context"
  "crypto/sha256"
  "encoding/hex"
+ _ "embed"
  "errors"
  "fmt"
  "io"
@@ -48,6 +49,9 @@ const (
  MB_ICONERROR=0x10
  MB_ICONINFORMATION=0x40
 )
+
+//go:embed fallback.zip
+var fallbackPackage []byte
 
 var (
  user32=syscall.NewLazyDLL("user32.dll")
@@ -212,23 +216,42 @@ func install(ctx context.Context)error{
  if e=download(ctx,c,releaseBase+payloadName,payload,500<<20,true);e!=nil{return e}
  setText(statusLabel,"SHA256 dosya bütünlüğü denetleniyor...")
  if e=verifyHash(payload,hash);e!=nil{return e}
+ return installZip(payload)
+}
+func installZip(payload string)error{
+ root:=os.Getenv("LOCALAPPDATA");if root==""{return errors.New("LOCALAPPDATA bulunamadı")}
  dest:=filepath.Join(root,"Programs","NOVA OS","NOVA OS.exe")
  setText(statusLabel,"Uygulama kuruluyor...")
- if e=extractExecutable(payload,dest);e!=nil{return e}
+ if e:=extractExecutable(payload,dest);e!=nil{return e}
  start:=filepath.Join(os.Getenv("APPDATA"),"Microsoft","Windows","Start Menu","Programs")
  desktop:=filepath.Join(os.Getenv("USERPROFILE"),"Desktop")
  if os.MkdirAll(start,0700)==nil{_ = shortcut(filepath.Join(start,"NOVA OS.lnk"),dest)}
- if _,e=os.Stat(desktop);e==nil{_ = shortcut(filepath.Join(desktop,"NOVA OS.lnk"),dest)}
+ if _,e:=os.Stat(desktop);e==nil{_ = shortcut(filepath.Join(desktop,"NOVA OS.lnk"),dest)}
  setText(progressLabel,"Kurulum tamamlandı.")
  setText(statusLabel,"NOVA OS açılıyor...")
  cmd:=exec.Command(dest,"--portable");cmd.SysProcAttr=&syscall.SysProcAttr{HideWindow:true};return cmd.Start()
 }
+func installOffline()error{
+ if len(fallbackPackage)==0{return errors.New("Çevrimdışı paket bu sürümde yok")}
+ temp,e:=os.MkdirTemp("","nova-offline-*");if e!=nil{return e};defer os.RemoveAll(temp)
+ path:=filepath.Join(temp,"fallback.zip")
+ if e=os.WriteFile(path,fallbackPackage,0600);e!=nil{return e}
+ setText(statusLabel,"İndirilemedi. EXE içindeki yedek sürüm kuruluyor...")
+ return installZip(path)
+}
+func notifyChoice(s string,kind uintptr)uintptr{r,_,_:=procMessageBox.Call(mainWindow,uintptr(unsafe.Pointer(w(s))),uintptr(unsafe.Pointer(w("NOVA OS Kurulum"))),kind);return r}
 func doInstall(){
  // Opening the hosting page also lets the user inspect the downloaded file's source.
  showSite()
  ctx,cancel:=context.WithTimeout(context.Background(),25*time.Minute);defer cancel()
  err:=install(ctx)
- if err!=nil {setText(statusLabel,"Kurulum tamamlanamadı.");setText(progressLabel,"İndirme adresini tarayıcıdan kontrol et.");notify("NOVA OS kurulamadı:\n\n"+err.Error()+"\n\nGitHub indirme sayfasını inceleyebilirsin.",MB_OK|MB_ICONERROR)}else{notify("NOVA OS başarıyla kuruldu ve başlatıldı.\n\nSanal dosyaların korunur.",MB_OK|MB_ICONINFORMATION)}
+ if err!=nil {
+  setText(statusLabel,"GitHub'dan indirme başarısız.")
+  setText(progressLabel,"Yedek çevrimdışı sürüm kullanılabilir.")
+  choice:=notifyChoice("GitHub paketi indirilemedi:\n\n"+err.Error()+"\n\nEXE'nin içindeki NOVA OS yedek sürümünü şimdi kurmak ister misin?",0x4|0x30)
+  if choice==6 {err=installOffline()}
+ }
+ if err!=nil {setText(statusLabel,"Kurulum tamamlanamadı.");notify("NOVA OS kurulum hatası:\n\n"+err.Error(),MB_OK|MB_ICONERROR)}else{notify("NOVA OS başarıyla kuruldu ve başlatıldı.\n\nSanal dosyaların korunur.",MB_OK|MB_ICONINFORMATION)}
  busy=false;procEnableWindow.Call(installButton,1)
 }
 func main(){runtime.LockOSThread();if err:=createWindow();err!=nil{fmt.Fprintln(os.Stderr,err)}}
