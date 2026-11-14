@@ -4,11 +4,11 @@
 
 ## Kurulum modeli
 
-- `NOVA_OS_WebInstaller.exe` (~2.5 MB) internet indirme başlatıcısıdır.
+- `NOVA_OS_WebInstaller.exe` (~6 MB; içinde çevrimdışı yedek de bulunur) internet indirme başlatıcısıdır.
 - `KUR VE İNDİR`: GitHub Releases sitesini açar, `SHA256SUMS.txt` ve `NOVA_OS_Package.zip` indirir, paket bütünlüğünü kontrol eder, EXE'yi `%LOCALAPPDATA%\Programs\NOVA OS` içine kurup başlatır.
 - Kullanıcı verileri `%LOCALAPPDATA%\NOVA OS\Profile` altında kalır. Güncelleme önceki profil klasörünü silmez.
 - Yönetici yetkisi ve ayrı kurulum yazılımı gerekmez; Windows 11 ve Edge gerekir.
-- GitHub sitesi bulunamazsa veya sürüm yayımlanmamışsa indirme hata verir. Alternatif olarak `NOVA_OS.exe` indirilebilir.
+- GitHub sitesi bulunamazsa veya sürüm yayımlanmamışsa bir hata gösterilir ve **EXE içine gömülü yedek sürümü kurmak için izin istenir**. Bu yedek sürüm internet olmadan da çalışabilir. Alternatif olarak `NOVA_OS.exe` indirilebilir.
 
 Yayın sayfası: https://github.com/ugurfc26-eng/ugur/releases/tag/nova-os-v0.2.0
 
