@@ -28,13 +28,16 @@ jobs:
           $env:CGO_ENABLED='0'
           cd nova-os
           go build -trimpath -ldflags='-s -w -H windowsgui' -o '../NOVA_OS.exe' main_windows.go
-          go build -trimpath -ldflags='-s -w -H windowsgui' -o '../NOVA_OS_WebInstaller.exe' installer_windows.go
           cd ..
           New-Item -ItemType Directory -Force -Path package | Out-Null
           Copy-Item NOVA_OS.exe package/NOVA_OS.exe
           Compress-Archive -Path package/NOVA_OS.exe -DestinationPath NOVA_OS_Package.zip -Force -CompressionLevel Optimal
           $hash=(Get-FileHash NOVA_OS_Package.zip -Algorithm SHA256).Hash.ToLowerInvariant()
           [IO.File]::WriteAllText('SHA256SUMS.txt', "$hash  NOVA_OS_Package.zip`n", (New-Object System.Text.UTF8Encoding($false)))
+          Copy-Item NOVA_OS_Package.zip nova-os/fallback.zip
+          cd nova-os
+          go build -trimpath -ldflags='-s -w -H windowsgui' -o '../NOVA_OS_WebInstaller.exe' installer_windows.go
+          cd ..
           Write-Host "Package SHA256: $hash"
           Get-Item NOVA_OS.exe,NOVA_OS_WebInstaller.exe,NOVA_OS_Package.zip,SHA256SUMS.txt | Select Name,Length
       - name: Publish install files on GitHub Releases
